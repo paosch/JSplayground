@@ -19,3 +19,10 @@ It takes the current time from javaScript and updates the clock's hands
 ### Screenshot ###
 ![screen shot 2018-06-17 at 14 23 50](https://user-images.githubusercontent.com/33669463/41508284-3082870c-723a-11e8-8efc-5ad96fd0a0b2.png)
 
+
+## Exercise 3 ##
+**Playing with CSS variables and JS** (based on the third exercise of the JavaScript30 series).
+
+This is WORK IN PROGRESS, I have played with CSS but I haven't added functionality yet. The screenshot shows what has been done so far.
+
+![screen shot 2018-06-17 at 17 06 27](https://user-images.githubusercontent.com/33669463/41509765-de192798-7250-11e8-9e97-f663efa0b7ac.png)
