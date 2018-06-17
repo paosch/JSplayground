@@ -1,18 +1,18 @@
 html {
   font-size: 10px;
-  background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
-  background-size: cover;
+  background: url(https://thumbs.dreamstime.com/b/drum-kit-hand-drawn-vector-doodle-illustration-set-72632206.jpg) bottom center;
+  background-repeat: no-repeat;
+  background-size: 1000px 750px;
 }
 body, html {
   margin: 0;
-  padding: 0;
   font-family: sans-serif;
 }
 .keys {
   display: flex;
   flex: 1;
-  min-height: 100vh;
-  align-items: center;
+  height: 100vh;
+  align-items: flex-start;
   justify-content: center;
 }
 .key {
@@ -20,8 +20,8 @@ body, html {
   border-radius: .5rem;
   margin: 1rem;
   font-size: 1.5rem;
-  padding: 1rem .5rem;
-  transition: all .07s ease;
+  padding: 3rem .5rem;
+  transition: all .07s;
   width: 10rem;
   text-align: center;
   color: white;
@@ -31,15 +31,15 @@ body, html {
 .playing {
   transform: scale(1.1);
   border-color: #ffc600;
-  box-shadow: 0 0 1rem #ffc600;
+  box-shadow: 0 0 5rem #ffc600;
 }
 kbd {
   display: block;
   font-size: 4rem;
 }
 .sound {
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   text-transform: uppercase;
   letter-spacing: .1rem;
-  color: #ffc600;
+  color: #ffcc00;
 }
