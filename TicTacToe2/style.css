@@ -1,0 +1,47 @@
+* {
+    user-select: none;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+html {background-color: white;}
+
+h1#intro {
+  font-size: 100px;
+  text-align: center;
+}
+
+span {
+  font-size: 95px;
+  margin-top: 20px;
+}
+body {
+  background-color: #ffccd4;
+  width: 1000px;
+  margin: 5px auto;
+  text-align: center;
+  padding: 20px;
+}
+
+div[id^="row-"] div {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  float: left;
+}
+
+div[id^="row-"] div:first-child {border-left: none;}
+div[id^="row-"] div:last-child {border-right: none;}
+div[id="row-1"] div {border-top: none}
+div[id="row-3"] div {border-bottom: none}
+div[id^="row-"] {
+  clear: float;
+  width: 680px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+div.board {
+  width: 680px;
+  overflow: hidden;
+  margin: 0 auto;
+}
