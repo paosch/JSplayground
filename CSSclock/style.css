@@ -37,7 +37,7 @@ body {
 
 .hand {
   width: 50%;
-  height: 8px;
+  height: 6px;
   background: black;
   position: absolute;
   top: 50%;
@@ -46,8 +46,9 @@ body {
   transition: all 0.05s;
   transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
 }
-.min-hand {
-  height: 5px;
+.hour-hand {
+  width: 30%;
+  margin-left: 20%;
 }
 .second-hand {
   height: 2px;
