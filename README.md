@@ -3,7 +3,7 @@
 This repository contains exercises written to practise HTML, CSS and javaScript.
 
 ## Exercise 1 ##
-**DrumKit** (based on the first exercise of the JavaScript30 series). 
+**DrumKit** 
 When one clicks on a certain keyboard key, the program plays the sound associated with that key and does a short animation (it pops the button up and gives it a yellow border)
 
 ### User interface screenshot ###
@@ -13,7 +13,7 @@ When one clicks on a certain keyboard key, the program plays the sound associate
 
 
 ## Exercise 2 ##
-**CSSclock** (based on the second exercise of the JavaScript30 series). 
+**CSSclock**  
 It takes the current time from javaScript and updates the clock's hands
 
 ### Screenshot ###
@@ -21,8 +21,9 @@ It takes the current time from javaScript and updates the clock's hands
 
 
 ## Exercise 3 ##
-**Playing with CSS variables and JS** (based on the third exercise of the JavaScript30 series).
+**Playing with CSS variables and JS** 
+CSS variables updated with JavaScript
 
-This is WORK IN PROGRESS, I have played with CSS but I haven't added functionality yet. The screenshot shows what has been done so far.
+### Screenshot ###
+![image](https://user-images.githubusercontent.com/33669463/64081333-60879f00-ccf7-11e9-9d82-f6eb3816c997.png)
 
-![screen shot 2018-06-17 at 17 06 27](https://user-images.githubusercontent.com/33669463/41509765-de192798-7250-11e8-9e97-f663efa0b7ac.png)
