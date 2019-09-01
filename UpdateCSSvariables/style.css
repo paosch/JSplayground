@@ -12,13 +12,13 @@ img {
   filter: blur(var(--blur));
 }
 
-h2 {
-  font-weight: 50;
+h1 span {
+  color: var(--base);
 }
 
 body {
   text-align: center;
-  background: black;
+  background: #193549;
   color: white;
   font-family:  'helvetica neue';
   font-weight: 100;
